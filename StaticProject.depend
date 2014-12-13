@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1356209180 source:/home/lamiaa/Documents/CodeBlocks/StaticProject/main.cpp
+	<iostream>
+	"complex_t.h"
+	"vector.h"
+	"matrix.h"
+
+1356208624 /home/lamiaa/Documents/CodeBlocks/StaticProject/complex_t.h
+
+1356209443 /home/lamiaa/Documents/CodeBlocks/StaticProject/vector.h
+	<exception>
+	<stdlib.h>
+	"complex_t.h"
+
+1356209410 /home/lamiaa/Documents/CodeBlocks/StaticProject/matrix.h
+	"complex_t.h"
+	"vector.h"
+
